@@ -1,5 +1,5 @@
 <configuration timestamp="2021-03-09T09:25:52.198830Z">
-    <base uri="http://blog.beldon.me/upgrade/" path="${user.dir}"/>
+    <base uri="https://raw.sevencdn.com/beldon/upgrade/main/" path="${user.dir}"/>
     <properties>
         <property key="app.name" value="Thin Wiki"/>
         <property key="build.version" value="0.0.3"/>
