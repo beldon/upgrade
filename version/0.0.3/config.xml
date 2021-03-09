@@ -1,0 +1,11 @@
+<configuration timestamp="2021-03-09T09:25:52.198830Z">
+    <base uri="https://gitee.com/beldon/update/raw/master/" path="${user.dir}"/>
+    <properties>
+        <property key="app.name" value="Thin Wiki"/>
+        <property key="build.version" value="0.0.3"/>
+        <property key="build.time" value="2021-03-09T09:20:30.050Z"/>
+    </properties>
+    <files>
+        <file uri="version/${build.version}/thin-wiki.jar" path="lib/thin-wiki.jar" size="1178339" checksum="8675b762"/>
+    </files>
+</configuration>

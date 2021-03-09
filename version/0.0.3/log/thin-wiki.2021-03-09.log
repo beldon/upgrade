@@ -1,0 +1,25 @@
+2021-03-09 18:06:18.167 [main] INFO  wiki.thin.ThinApplication.logStarting(55) - Starting ThinApplication v0.0.3 using Java 11.0.2 on BeldondeMacBook-Pro.local with PID 82785 (/Users/beldon/Documents/tmp/upgrade/version/0.0.3/thin-wiki.jar started by beldon in /Users/beldon/Documents/tmp/upgrade/version/0.0.3)
+2021-03-09 18:06:18.173 [main] DEBUG wiki.thin.ThinApplication.logStarting(56) - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-09 18:06:18.174 [main] INFO  wiki.thin.ThinApplication.logStartupProfileInfo(664) - The following profiles are active: mysql
+2021-03-09 18:06:21.243 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.init(34) - create [navVar] variable
+2021-03-09 18:06:21.252 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.init(34) - create [sysVar] variable
+2021-03-09 18:06:21.258 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.init(34) - create [util] variable
+2021-03-09 18:06:21.263 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.init(34) - create [localStorageVar] variable
+2021-03-09 18:06:21.271 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.init(34) - create [articleVar] variable
+2021-03-09 18:06:21.279 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.init(34) - create [githubStorageVar] variable
+2021-03-09 18:06:21.286 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.init(34) - create [columnVar] variable
+2021-03-09 18:06:21.295 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.init(34) - create [secVar] variable
+2021-03-09 18:06:21.304 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.init(34) - create [articleColumnVar] variable
+2021-03-09 18:06:21.311 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.init(34) - create [giteeStorageVar] variable
+2021-03-09 18:06:21.760 [main] DEBUG wiki.thin.security.SecurityFilter.init(242) - Filter 'securityFilter' configured for use
+2021-03-09 18:06:22.026 [main] DEBUG w.t.s.remember.RememberMeFilter.init(242) - Filter 'rememberMeFilter' configured for use
+2021-03-09 18:06:22.265 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.destroy(45) - destroy [giteeStorageVar] variable
+2021-03-09 18:06:22.265 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.destroy(45) - destroy [articleColumnVar] variable
+2021-03-09 18:06:22.266 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.destroy(45) - destroy [secVar] variable
+2021-03-09 18:06:22.266 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.destroy(45) - destroy [columnVar] variable
+2021-03-09 18:06:22.267 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.destroy(45) - destroy [githubStorageVar] variable
+2021-03-09 18:06:22.267 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.destroy(45) - destroy [articleVar] variable
+2021-03-09 18:06:22.268 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.destroy(45) - destroy [localStorageVar] variable
+2021-03-09 18:06:22.268 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.destroy(45) - destroy [util] variable
+2021-03-09 18:06:22.268 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.destroy(45) - destroy [sysVar] variable
+2021-03-09 18:06:22.268 [main] INFO  w.t.theme.ftlh.variable.BaseVariable.destroy(45) - destroy [navVar] variable
